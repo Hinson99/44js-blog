@@ -1,0 +1,22 @@
+{
+  "name": "44js-blog",
+  "version": "1.0.0",
+  "description": "````js\r    node app\r    ````",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hinson99/44js-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hinson99/44js-blog/issues"
+  },
+  "homepage": "https://github.com/Hinson99/44js-blog#readme",
+  "dependencies": {
+    "koa": "^2.5.2"
+  }
+}
